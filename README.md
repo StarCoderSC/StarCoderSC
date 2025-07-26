@@ -3,7 +3,7 @@
 **Hi there!** I'm StarCoder — a self-taught **Pyton developer** focused on building tools, automating processes, and exploring the vast world of AI and tech.
 Currently working on my journey into full-stack development and contributing to open-source projects.
 
-🔗 **Visit my portfolio:**[https://starcoder.github.io](https://starcoder.github.io)
+🔗 **Visit my portfolio:**[https://starcodersc.github.io](https://starcodersc.github.io)
 
 ---
 
