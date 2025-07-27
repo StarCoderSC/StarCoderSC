@@ -17,18 +17,6 @@
 
 ---
 
-## 🚀 What I Built
-
-I focus on creating simple, effective tools that make life easier. My projects mostly consist of:
-
-- **CLI applications** (task managers, notepads, file organization)
-- **Web apps** (blog platforms, contact management, etc.)
-- **Automation tools** (scripting repetative tasks)
-
-Check out some of my featured projects below:
-
----
-
 ## 🧠 Featured Projects
 
 ### 📝 [SecondMind CLI Notepad](https://github.com/StarCoderSC/secondmind-cli)  
